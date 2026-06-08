@@ -1,6 +1,6 @@
 # LeadForge
 
-LeadForge is an AI-powered lead generation and outreach automation platform designed to streamline B2B prospecting workflows.
+LeadForge is an lead generation and outreach automation platform designed to streamline B2B prospecting workflows.
 
 The system automatically:
 
