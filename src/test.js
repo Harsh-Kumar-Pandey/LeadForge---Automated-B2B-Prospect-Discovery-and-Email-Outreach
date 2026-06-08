@@ -1,9 +1,9 @@
 require("dotenv").config();
 
 const brevoService =
-  require("./src/services/brevo.service");
+  require("./services/brevo.service");
 
-  const generateEmailTemplate = require("./src/utils/emailTemplate");
+  const generateEmailTemplate = require("./utils/emailTemplate");
 
 (async () => {
   

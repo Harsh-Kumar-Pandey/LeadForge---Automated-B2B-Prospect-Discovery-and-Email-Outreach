@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 const outreachPipeline = require(
-  "./src/pipeline/outreachPipeline"
+  "./pipeline/outreachPipeline"
 );
 
 (async () => {
