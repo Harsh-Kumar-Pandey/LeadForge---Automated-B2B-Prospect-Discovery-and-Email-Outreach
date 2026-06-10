@@ -23,7 +23,7 @@ class LeadGenerationService {
     );
 
     const topCompanies =
-      companies.slice(0, 5);
+      companies.slice(0, process.env.OCEAN_TOP_COMPANIES || 5); 
 
     console.log(
       `[leadGeneration.service] Using first ${topCompanies.length} companies`
@@ -55,7 +55,7 @@ class LeadGenerationService {
 
    // ---------------------------------------
 // STEP 3
-// Select 1 best person per company
+// Select 1 person per company
 // ---------------------------------------
 
 const selectedPeople = [];

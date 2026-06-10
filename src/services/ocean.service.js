@@ -6,7 +6,7 @@ class OceanService {
       const response = await axios.post(
         "https://api.ocean.io/v3/search/companies",
         {
-          size: 5, // change to 500 later
+          size: process.env.OCEAN_SEARCH_SIZE || 5, // change to 500 later
 
           companiesFilters: {
             lookalikeDomains: [domain],
