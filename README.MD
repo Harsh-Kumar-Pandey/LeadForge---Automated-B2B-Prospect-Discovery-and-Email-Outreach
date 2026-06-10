@@ -562,34 +562,7 @@ This project is licensed under the MIT License – see LICENSE.md for details.
 
 ---
 
-## 🙋 Support
 
-For questions, issues, or feature requests:
-- **GitHub Issues:** [Open an issue](https://github.com/yourusername/leadforge/issues)
-- **Email:** support@leadforge.io
-- **Documentation:** [Full docs](https://docs.leadforge.io)
 
----
-
-## 🗺️ Roadmap
-
-- [ ] Web dashboard for campaign management
-- [ ] Advanced lead scoring and filtering
-- [ ] Integration with CRM systems (Salesforce, HubSpot)
-- [ ] A/B testing for email templates
-- [ ] Multi-channel outreach (LinkedIn, SMS)
-- [ ] Analytics and ROI tracking
-- [ ] Team collaboration features
-
----
-
-## 📞 Contact
-
-**LeadForge Team**
-- Website: [www.leadforge.io](https://www.leadforge.io)
-- Email: hello@leadforge.io
-- Twitter: [@LeadForgeHQ](https://twitter.com/LeadForgeHQ)
-
----
 
 **Made with ❤️ by the Harsh**
