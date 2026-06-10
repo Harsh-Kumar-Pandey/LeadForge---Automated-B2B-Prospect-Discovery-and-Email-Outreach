@@ -82,10 +82,10 @@ src/
 
 All API calls implement intelligent throttling to prevent hitting rate limits and ensure stable operations:
 
-- **Ocean.io Requests** – Minimum 1 second interval between requests, max 2 concurrent requests
-- **Prospeo Search Requests** – Minimum 500ms interval between requests, max 3 concurrent requests
-- **Prospeo Enrichment Requests** – Minimum 500ms interval between requests, max 3 concurrent requests
-- **Brevo Email Sends** – Minimum 2 seconds interval between sends, max 5 concurrent sends
+- **Ocean.io Requests** – Minimum 1 second interval between every requests.
+- **Prospeo Search Requests** – Minimum 1ms interval between every requests.
+- **Prospeo Enrichment Requests** – Minimum 3ms interval between every requests.
+- **Brevo Email Sends** – Minimum 1 seconds interval between sends.
 
 ## Use Cases
 
